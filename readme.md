@@ -26,6 +26,8 @@ https://www.honeypot.io/en/
 
 https://www.stepstone.de/
 
+https://www.talent.io/
+
 [https://www.immobilienscout24.de/](https://www.immobilienscout24.de/unternehmen/karriere/jobs/) 
 
 ### Free German resume writing services
