@@ -26,6 +26,8 @@ https://www.honeypot.io/en/
 
 https://www.stepstone.de/
 
+[https://www.immobilienscout24.de/](https://www.immobilienscout24.de/unternehmen/karriere/jobs/) 
+
 ### Free German resume writing services
 
 https://www.stellenwerk-berlin.de/magazin/bewerbung/hier-bekommst-du-kostenlose-bewerbungsberatung-berlin-0
@@ -44,9 +46,17 @@ https://www.frauen-berufsperspektive.de/einrichtungen
 
 Before starting your social activities in tech communities, I recommend you read [Berlin Code of Conduct](https://berlincodeofconduct.org/).
 
+Women Techmakers Berlin http://wtmberlin.com, https://slack.wtmberlin.com, submit talk: 
+[click to submit a talk](https://docs.google.com/forms/d/1KGD7Tm6TvEsMBQF9-ZVsLwZFhzBxqdkfLNaM1rTOAHE) 
+
+Android Google Developer Group Berlin http://berlindroid.de, https://adg-berlin.herokuapp.com, submit talk: [cfp.berlindroid.de](cfp.berlindroid.de) 
+
 ### Coding Bootcamps
 
 [ReDi School (Free)](https://www.redi-school.org/)
+
+[Coyotiv](https://coyotiv.com )
+
 
 
 ### Software developer salary report
