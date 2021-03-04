@@ -44,10 +44,14 @@ https://apollo.arbeitsagentur.de/einstelloptionen/#/einstelloptionen
 
 ## Software developer salary report
 
-[Software Developer Salary Report 2021 Edition](https://marketing-pictures.s3-eu-west-1.amazonaws.com/Salary+Report+2021/Salary_Report_EU-EN_2021_talent.io.pdf)
+[Software Developer Salary Report 2021 Edition](https://marketing-pictures.s3-eu-west-1.amazonaws.com/Salary+Report+2021/Salary_Report_EU-EN_2021_talent.io.pdf) by talent.io
 
 ## Recommended tech communities
 
 ## Life
 
 [Awesome Berlin Guide](https://marlonbernardes.github.io/awesome-berlin/en/#awesome-berlin) by [Marlon Bernardes](https://github.com/marlonbernardes)
+
+## Tax return service
+
+[Taxfix - supports EN & GER](https://taxfix.de/)
