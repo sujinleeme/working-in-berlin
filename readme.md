@@ -26,6 +26,8 @@ https://www.honeypot.io/en/
 
 https://www.stepstone.de/
 
+https://www.talent.io/
+
 ### Free German resume writing services
 
 https://www.stellenwerk-berlin.de/magazin/bewerbung/hier-bekommst-du-kostenlose-bewerbungsberatung-berlin-0
