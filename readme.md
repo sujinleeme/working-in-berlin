@@ -1,6 +1,6 @@
 # Working in Berlin 🇩🇪
 
-Useful resources for those we want to relocate Berlin
+Useful resources for those we want to work in Berlin
 
 Feel free to send PR and your ideas.
 
