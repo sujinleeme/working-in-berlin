@@ -61,6 +61,8 @@ Before starting your social activities in tech communities, I recommend you read
 
 - Android Google Developer Group Berlin http://berlindroid.de, https://adg-berlin.herokuapp.com, submit talk: [cfp.berlindroid.de](cfp.berlindroid.de)
 
+- DataTalks.Club: https://datatalks.club. Berlin Branch on Meetup: https://www.meetup.com/berlin-datatalks-club
+
 ### Coding Bootcamps
 
 - [ReDi School (Free)](https://www.redi-school.org/)
@@ -69,7 +71,9 @@ Before starting your social activities in tech communities, I recommend you read
 
 ### Software developer salary report
 
-[Software Developer Salary Report 2021 Edition](https://marketing-pictures.s3-eu-west-1.amazonaws.com/Salary+Report+2021/Salary_Report_EU-EN_2021_talent.io.pdf) by talent.io
+- [Software Developer Salary Report 2021 Edition](https://marketing-pictures.s3-eu-west-1.amazonaws.com/Salary+Report+2021/Salary_Report_EU-EN_2021_talent.io.pdf) by talent.io
+- https://www.asdcode.de/2021/01/it-salary-survey-december-2020.html
+
 
 ### Unemployment pension
 
