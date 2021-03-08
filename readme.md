@@ -69,6 +69,8 @@ Before starting your social activities in tech communities, I recommend you read
 
 - [Coyotiv](https://coyotiv.com )
 
+- [Le Wagon](https://www.lewagon.com/berlin)
+
 ### Software developer salary report
 
 - [Software Developer Salary Report 2021 Edition](https://marketing-pictures.s3-eu-west-1.amazonaws.com/Salary+Report+2021/Salary_Report_EU-EN_2021_talent.io.pdf) by talent.io
