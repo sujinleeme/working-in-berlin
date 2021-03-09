@@ -52,6 +52,8 @@ __For women__
 
 - https://www.frauen-berufsperspektive.de/einrichtungen
 
+- https://www.frauenloop.org/
+
 ### Recommended tech communities
 
 Before starting your social activities in tech communities, I recommend you read [Berlin Code of Conduct](https://berlincodeofconduct.org/).
