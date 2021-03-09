@@ -71,6 +71,8 @@ Before starting your social activities in tech communities, I recommend you read
 
 - [Le Wagon](https://www.lewagon.com/berlin)
 
+- [FrauenLoop](https://www.frauenloop.org): German non-profit organization that offers trainings for women-identified persons with resident, immigrant, refugee, non-science, or family-status backgrounds who might otherwise face obstacles to starting or re-entering professional tech industry roles.
+
 ### Software developer salary report
 
 - [Software Developer Salary Report 2021 Edition](https://marketing-pictures.s3-eu-west-1.amazonaws.com/Salary+Report+2021/Salary_Report_EU-EN_2021_talent.io.pdf) by talent.io
