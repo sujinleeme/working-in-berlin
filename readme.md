@@ -52,8 +52,6 @@ __For women__
 
 - https://www.frauen-berufsperspektive.de/einrichtungen
 
-- https://www.frauenloop.org/
-
 ### Recommended tech communities
 
 Before starting your social activities in tech communities, I recommend you read [Berlin Code of Conduct](https://berlincodeofconduct.org/).
@@ -72,6 +70,8 @@ Before starting your social activities in tech communities, I recommend you read
 - [Coyotiv](https://coyotiv.com )
 
 - [Le Wagon](https://www.lewagon.com/berlin)
+
+- [FrauenLoop](https://www.frauenloop.org): German non-profit organization that offers trainings for women-identified persons with resident, immigrant, refugee, non-science, or family-status backgrounds who might otherwise face obstacles to starting or re-entering professional tech industry roles.
 
 ### Software developer salary report
 
