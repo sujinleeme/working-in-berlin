@@ -20,13 +20,15 @@ Watch The Pitch Doctor's Berlin Pitch video, "[Why you should move your startup 
 
 ### Berlin tech startups jobs
 
-- [Startup Map berlin](https://startup-map.berlin/intro)
+- [Startup Map Berlin](https://startup-map.berlin/intro)
 
 - [berlinstartupjobs.com](https://berlinstartupjobs.com/)
 
-- [angel.co - berlin](https://angel.co/location/berlin)
+- [angel.co - Berlin](https://angel.co/location/berlin)
 
-- [immobilienscout24 - berlin](https://www.immobilienscout24.de/unternehmen/karriere/jobs/)
+- [immobilienscout24 - Berlin](https://www.immobilienscout24.de/unternehmen/karriere/jobs/)
+
+- [German Tech Jobs - Berlin](https://germantechjobs.de/en/jobs/all/Berlin)
 
 ### Recruiting companies
 
