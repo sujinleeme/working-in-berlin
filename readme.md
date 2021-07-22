@@ -30,6 +30,8 @@ Watch The Pitch Doctor's Berlin Pitch video, "[Why you should move your startup 
 
 - [German Tech Jobs - Berlin](https://germantechjobs.de/en/jobs/all/Berlin)
 
+- [Arbeitnow - English Speaking Jobs in Berlin](https://arbeitnow.com/berlin-jobs) - with visa sponsorship, four day work weeks & more!
+
 ### Recruiting companies
 
 - [moberries](https://www.moberries.com/)
