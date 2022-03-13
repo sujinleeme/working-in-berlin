@@ -32,6 +32,8 @@ Watch The Pitch Doctor's Berlin Pitch video, "[Why you should move your startup 
 
 - [Arbeitnow - English Speaking Jobs in Berlin](https://arbeitnow.com/berlin-jobs) - with visa sponsorship, four day work weeks & more!
 
+- [NEXT Data Service - Berlin](https://www.next-data-service.com/en/careers/) - offering home office, flexible working hours & more!
+
 ### Recruiting companies
 
 - [moberries](https://www.moberries.com/)
