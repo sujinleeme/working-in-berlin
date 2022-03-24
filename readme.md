@@ -71,6 +71,8 @@ Before starting your social activities in tech communities, I recommend you read
 
 ### Coding Bootcamps
 
+- [42 berlin](https://42berlin.de/)
+
 - [ReDi School (Free)](https://www.redi-school.org/)
 
 - [Coyotiv](https://coyotiv.com )
