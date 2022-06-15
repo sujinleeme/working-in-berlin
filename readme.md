@@ -86,6 +86,8 @@ Before starting your social activities in tech communities, I recommend you read
 - [Software Developer Salary Report 2021 Edition](https://marketing-pictures.s3-eu-west-1.amazonaws.com/Salary+Report+2021/Salary_Report_EU-EN_2021_talent.io.pdf) by talent.io
 - https://www.asdcode.de/2021/01/it-salary-survey-december-2020.html
 
+### Salary Calculator
+- [Salary Calculator - Germany](https://arbeitnow.com/tools/salary-calculator/germany)
 
 ### Unemployment pension
 
