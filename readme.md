@@ -70,6 +70,7 @@ Before starting your social activities in tech communities, I recommend you read
 - DataTalks.Club: https://datatalks.club. Berlin Branch on Meetup: https://www.meetup.com/berlin-datatalks-club
 
 ### Coding Bootcamps
+- [ESMT Berlin Coding Boot Camp](https://bootcamp.esmt.berlin/)
 
 - [42 berlin](https://42berlin.de/)
 
