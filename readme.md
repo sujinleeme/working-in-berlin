@@ -100,12 +100,9 @@ Before starting your social activities in tech communities, I recommend you read
 ## 🌱 Life
 
 ### Guides
+- [All about berlin](https://allaboutberlin.com/) by Nicolas Bouliane
 
 - [Awesome Berlin Guide](https://marlonbernardes.github.io/awesome-berlin/en/#awesome-berlin) by [Marlon Bernardes](https://github.com/marlonbernardes)
-
-### Tax return service
-
-- [Taxfix - supports EN & GER](https://taxfix.de/)
 
 ---
 
