@@ -70,6 +70,8 @@ Before starting your social activities in tech communities, I recommend you read
 - DataTalks.Club: https://datatalks.club. Berlin Branch on Meetup: https://www.meetup.com/berlin-datatalks-club
 
 ### Coding Bootcamps
+- [Quest](https://quest.code.berlin/): A free non-degree program for migrants who want to [re-]enter the tech industry as a Full-Stack Web Developer / User Interface Designer
+
 - [ESMT Berlin Coding Boot Camp](https://bootcamp.esmt.berlin/)
 
 - [42 berlin](https://42berlin.de/)
