@@ -71,6 +71,8 @@ Before starting your social activities in tech communities, I recommend you read
 
 - DataTalks.Club: https://datatalks.club. Berlin Branch on Meetup: https://www.meetup.com/berlin-datatalks-club
 
+- Unicorns in Tech Berlin https://www.unicornsintech.com/. Events calendar: https://www.unicornsintech.com/events/  
+
 ### Coding Bootcamps
 - [Quest](https://quest.code.berlin/): A free non-degree program for migrants who want to [re-]enter the tech industry as a Full-Stack Web Developer / User Interface Designer
 
