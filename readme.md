@@ -89,7 +89,7 @@ Before starting your social activities in tech communities, I recommend you read
 - [FrauenLoop](https://www.frauenloop.org): German non-profit organization that offers trainings for women-identified persons with resident, immigrant, refugee, non-science, or family-status backgrounds who might otherwise face obstacles to starting or re-entering professional tech industry roles.
 
 ### Software developer salary report
-
+- [Berlin Salary Trends 2024: Report](https://handpickedberlin.com/berlin-salary-trends-2024-report) - Handpicked Berlin
 - [Software Developer Salary Report 2021 Edition](https://marketing-pictures.s3-eu-west-1.amazonaws.com/Salary+Report+2021/Salary_Report_EU-EN_2021_talent.io.pdf) by talent.io
 - https://www.asdcode.de/2021/01/it-salary-survey-december-2020.html
 - [Sofware Developer Salary in Berlin](https://lohntastik.de/s/salary-search/14350/20) - Software Developer salary statistical data based on actual salaries collected and released by the German government.
