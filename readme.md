@@ -20,6 +20,10 @@ Watch The Pitch Doctor's Berlin Pitch video, "[Why you should move your startup 
 
 ### Berlin tech startups jobs
 
+- [Talent Berlin](https://talent.berlin/en/jobs/job-search)
+
+- [Arbeitnow](https://www.arbeitnow.com/)
+
 - [Arbeitnow](https://www.arbeitnow.com/)
 
 - [Startup Map Berlin](https://startup-map.berlin/intro)
