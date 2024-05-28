@@ -24,8 +24,6 @@ Watch The Pitch Doctor's Berlin Pitch video, "[Why you should move your startup 
 
 - [Arbeitnow](https://www.arbeitnow.com/)
 
-- [Arbeitnow](https://www.arbeitnow.com/)
-
 - [Startup Map Berlin](https://startup-map.berlin/intro)
 
 - [berlinstartupjobs.com](https://berlinstartupjobs.com/)
@@ -110,6 +108,8 @@ Before starting your social activities in tech communities, I recommend you read
 ## 🌱 Life
 
 ### Guides
+- [TALENT BERLIN - the Welcome Portal for New Berliners](https://talent.berlin/en/)
+  
 - [All about berlin](https://allaboutberlin.com/) by Nicolas Bouliane
 
 - [Awesome Berlin Guide](https://marlonbernardes.github.io/awesome-berlin/en/#awesome-berlin) by [Marlon Bernardes](https://github.com/marlonbernardes)
