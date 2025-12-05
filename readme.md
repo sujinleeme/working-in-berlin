@@ -42,8 +42,6 @@ Watch The Pitch Doctor's Berlin Pitch video, "[Why you should move your startup 
 
 - [moberries](https://www.moberries.com/)
 
-- [honeypot.io](https://www.honeypot.io/en/)
-
 - [stepstone](https://www.stepstone.de/)
 
 - [talent.io](https://www.talent.io/)
