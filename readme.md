@@ -36,6 +36,8 @@ Watch The Pitch Doctor's Berlin Pitch video, "[Why you should move your startup 
 
 - [Arbeitnow - English Speaking Jobs in Berlin](https://arbeitnow.com/berlin-jobs) - with visa sponsorship, four day work weeks & more!
 
+- [EuroJobs.ai - IT Jobs in Germany](https://eurojobs.ai/jobs/locations/germany) - 28,000+ IT jobs across Europe aggregated hourly from employers' own career pages (Greenhouse, Lever, Ashby, Workable and others). Filters for visa sponsorship, English-speaking teams, remote, and salary.
+
 - [NEXT Data Service - Berlin](https://www.next-data-service.com/en/careers/) - offering home office, flexible working hours & more!
 
 ### Recruiting companies
